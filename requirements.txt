@@ -7,4 +7,5 @@ certifi==2023.11.17
 tornado==6.3.3
 APScheduler==3.6.3
 pytz==2023.3.post1
+setuptools==75.8.0
 cachetools==4.2.2
